@@ -1,0 +1,9 @@
+original/
+__pycache__/
+.idea/
+*.bin
+*.sym
+*.chr
+*.png
+*.txt
+*.nes

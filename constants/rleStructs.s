@@ -1,0 +1,9 @@
+.define rle_copyrightScreen0 $00
+.define rle_copyrightScreen1 $01
+.define rle_copyrightScreen2 $02
+.define rle_copyrightScreen3 $03
+.define rle_copyrightScreen4 $04
+.define rle_talesOfDreams $05
+.define rle_2SpiritsWatchingOver $06
+.define rle_pressStartScreen $15
+.define rle_pressStartPalettes $1c
